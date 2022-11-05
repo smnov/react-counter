@@ -1,0 +1,28 @@
+* {
+  background-color: #abd7eb;
+}
+
+button {
+  border-radius: 5px;
+  margin: 10px;
+  color: white;
+  padding: 20px 40px;
+  font-size: 26px;
+  cursor: pointer;
+  
+}
+
+.btn-p {
+  background-color:#f2c947;
+}
+
+.btn-m {
+  background-color: #47485d;
+}
+
+.App {
+  text-align: center;
+  font-size: 50px;
+  border: 1px black;
+  margin-top: 60px;
+}
